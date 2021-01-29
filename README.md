@@ -96,6 +96,6 @@ grids-styled-components is inspired by the [bootstrap grid system](https://getbo
 
 ### Follow Me
 
-![Facebook](https://github.com/gilbarbara/logos/master/logos/facebook.svg) | ![Instagram](https://github.com/gilbarbara/logos/master/logos/instagram.svg) | ![Twitter](https://github.com/gilbarbara/logos/master/logos/twitter.svg) | ![Linkedin](https://github.com/gilbarbara/logos/master/logos/linkedin.svg) | ![Youtube](https://github.com/gilbarbara/logos/master/logos/youtube.svg) |
+![Facebook](https://raw.githubusercontent.com/gilbarbara/logos/master/logos/facebook.svg) | ![Instagram](https://raw.githubusercontent.com/gilbarbara/logos/master/logos/instagram.svg) | ![Twitter](https://raw.githubusercontent.com/gilbarbara/logos/master/logos/twitter.svg) | ![Linkedin](https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin.svg) | ![Youtube](https://raw.githubusercontent.com/gilbarbara/logos/master/logos/youtube.svg) |
 --- | --- | --- | --- | --- |
 [Facebook](https://www.facebook.com/iNoozura) | [Instagram](https://instagram.com/inozura) | [Twitter](https://twitter.com/inoozura) | [Linkedin](https://www.linkedin.com/in/novandra-zulfi-ramadhan-33ab2a1aa/) | [Youtube](https://www.youtube.com/channel/UCkMufXWiJI1unr8eLpci6FA) |
