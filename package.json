@@ -1,0 +1,29 @@
+{
+  "name": "grids-styled-components",
+  "version": "0.1.1",
+  "description": "grid system of styled-components with similar naming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inozura/grids-styled-components.git"
+  },
+  "keywords": [
+    "grid",
+    "grids",
+    "system",
+    "grids-styled-components",
+    "styled-components"
+  ],
+  "author": "iNozura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inozura/grids-styled-components/issues"
+  },
+  "homepage": "https://github.com/inozura/grids-styled-components#readme",
+  "peerDependencies": {
+    "styled-components": "^5.2.1"
+  }
+}
