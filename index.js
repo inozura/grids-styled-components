@@ -8,36 +8,36 @@ export const Container = styled.div`
   margin-left: auto;
 
   ${(props) => {
-    if (props.type === "sm") return;
-    css`
-      @media (min-width: 576px) {
-        max-width: 540px;
-      }
-    `;
-    if (props.type === "md") return;
-    css`
-      @media (min-width: 768px) {
-        max-width: 720px;
-      }
-    `;
-    if (props.type === "lg") return;
-    css`
-      @media (min-width: 992px) {
-        max-width: 960px;
-      }
-    `;
-    if (props.type === "xl") return;
-    css`
-      @media (min-width: 1200px) {
-        max-width: 1140px;
-      }
-    `;
-    if (props.type === "xxl") return;
-    css`
-      @media (min-width: 1400px) {
-        max-width: 1320px;
-      }
-    `;
+    if (props.type === "sm")
+      return css`
+        @media (min-width: 576px) {
+          max-width: 540px;
+        }
+      `;
+    if (props.type === "md")
+      return css`
+        @media (min-width: 768px) {
+          max-width: 720px;
+        }
+      `;
+    if (props.type === "lg")
+      return css`
+        @media (min-width: 992px) {
+          max-width: 960px;
+        }
+      `;
+    if (props.type === "xl")
+      return css`
+        @media (min-width: 1200px) {
+          max-width: 1140px;
+        }
+      `;
+    if (props.type === "xxl")
+      return css`
+        @media (min-width: 1400px) {
+          max-width: 1320px;
+        }
+      `;
   }}
 `;
 

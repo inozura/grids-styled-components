@@ -19,7 +19,7 @@ Using npm:
 $ npm install styled-components grids-styled-components
 ```
 
-Using npm:
+Using yarn:
 
 ```bash
 $ yarn add styled-components grids-styled-components
